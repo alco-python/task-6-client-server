@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ### 5. Запустите API-сервер:
 ```bash
-uvicorn main:app --reload
+uvicorn api:app --reload
 ```
 ---
 
